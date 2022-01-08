@@ -6,6 +6,7 @@ public class CMD {
 		// TODO Auto-generated method stub
 //IT Was new class creat by sdet B he did pull request to send this change to main class by using github
 System.out.println("change from sdetB");
+final String s= "a big changefrom sdetB";
 	}
 
 }
