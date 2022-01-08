@@ -11,6 +11,6 @@ public class Class1 {
 		 * automatcally - then finish
 		 */
 		System.out.println("every changes in repo we need commit there too to be able to pull here");
-
+System.out.println("to creat new branch go to team- switch- put name- config-merge");
 	}
 }
